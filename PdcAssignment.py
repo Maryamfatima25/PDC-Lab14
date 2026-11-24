@@ -31,7 +31,7 @@ def main():
 
     print("\n4. Build information")
     print("Build date:", datetime.datetime.now())
-    print("Jenkins Python execution successful!")
+    print("Automatic Jenkins CI/CD build successful!")
 
     print("=" * 45)
 
